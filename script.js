@@ -1,5 +1,6 @@
 // Datos simulados de tracking
 const trackingData = {
+  "YWMIA010005902385": "arrived",
   "D10015867216206": "arrived",  // Ya llegó
   "456DEF": "not-arrived", // No ha llegado
   "789GHI": "arrived",  // Ya llegó
