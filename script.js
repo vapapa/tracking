@@ -1,7 +1,7 @@
 // Datos simulados de tracking
 const trackingData = {
   "YWMIA010005902385": "arrived",
-  "YWMIA010005902385": "arrived",  // Ya llegó
+  "papa": "arrived",  // Ya llegó
   "456DEF": "not-arrived", // No ha llegado
   "789GHI": "arrived",  // Ya llegó
 };
